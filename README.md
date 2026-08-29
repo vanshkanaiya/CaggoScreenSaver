@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows)](https://github.com/vanshkanaiya/CaggoScreenSaver)
 [![.NET](https://img.shields.io/badge/.NET-8.0%20LTS-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 [![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=for-the-badge&logo=csharp)](https://github.com/vanshkanaiya/CaggoScreenSaver)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](LICENSE)
+
 
 <br />
 
@@ -149,12 +149,8 @@ Contributions, feature suggestions, and pull requests are welcome!
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
 ---
 
 <div align="center">
-  <sub>Created with ❤️ by <a href="https://github.com/vanshkanaiya">Vansh Kanaiya</a></sub>
+  <sub>Created with ❤️ by <a href="https://vanshkanaiya.vercel.app/">Vansh Kanaiya</a></sub>
 </div>
