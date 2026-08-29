@@ -138,17 +138,6 @@ CaggoScreenSaver/
 
 ---
 
-## 🤝 Contributing
-
-Contributions, feature suggestions, and pull requests are welcome!
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/CoolFeature`)
-3. Commit your Changes (`git commit -m 'Add CoolFeature'`)
-4. Push to the Branch (`git push origin feature/CoolFeature`)
-5. Open a Pull Request
-
----
-
 ---
 
 <div align="center">
